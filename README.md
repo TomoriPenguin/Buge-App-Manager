@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Google+Sans+Flex&weight=500&pause=1000&color=000000&repeat=false&width=435&lines=Buge+App+Manager" alt="Buge App Manager">
+    <img src="https://readme-typing-svg.demolab.com?font=Google+Sans+Flex&weight=500&pause=1000&color=000000&repeat=false&width=870&lines=Buge+App+Manager" alt="Buge App Manager">
   </a>
 </div>
 
