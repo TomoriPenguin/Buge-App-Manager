@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  ![Typing SVG](https://readme-typing-svg...font=Google+Sans+Flex&lines=Buge App Manager)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Google+Sans+Flex&weight=700&size=24&pause=1000&color=000000&width=500&lines=Buge App Manager)](https://git.io/typing-svg)
 </p>
 
 <p align="center">
