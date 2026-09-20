@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FFFFFF&width=500&lines=Buge+App+Manager" alt="Buge App Manager">
+  <img src="https://readme-typing-svg.demolab.com?font=Google+Sans+Flex&weight=700&size=24&pause=1000&color=000000&width=500&lines=Buge App Manager">
 </p>
 
 <p align="center">
