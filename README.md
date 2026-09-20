@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  Buge App Manager
+## Buge App Manager
 </p>
 
 <p align="center">
