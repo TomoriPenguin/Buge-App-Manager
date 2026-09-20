@@ -2,9 +2,7 @@
   <img src="https://raw.githubusercontent.com/BugeStudioTeam/Buge-App-Manager/refs/heads/main/images/icons/icon.png" alt="Buge App Manager Icon" width="120"/>
 </p>
 
-<p align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Google+Sans+Flex&weight=500&pause=1000&color=000000&repeat=false&width=435&lines=Buge+App+Manager)](https://git.io/typing-svg)
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Google+Sans+Flex&weight=500&pause=1000&color=000000&repeat=false&width=435&lines=Buge+App+Manager)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android2.svg">
